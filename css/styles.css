@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(-45deg, #4e54c8, #8f94fb, #6dd5ed, #2193b0);
+    background-size: 400% 400%;
+    animation: gradientMove 15s ease infinite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+  }
+  
+  @keyframes gradientMove {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  .card {
+    backdrop-filter: blur(8px);
+    background-color: rgba(255, 255, 255, 0.85);
+    border: none;
+  }
+  
