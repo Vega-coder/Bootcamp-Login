@@ -24,18 +24,11 @@
 
 ## 📂 Estructura del proyecto
 
-/Proyecto/
-│
-├── index.html # Página principal o dashboard
-├── login.html # Formulario de inicio de sesión
-├── register.html # Formulario de registro
-├── recuperar.html # Recuperar contraseña
-├── assets/
-│ ├── css/
-│ │ └── estilos.css # Estilos personalizados
-│ └── js/
-│ └── login.js # Validaciones y lógica de formularios
-└── README.md # Este archivo
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
 ---
