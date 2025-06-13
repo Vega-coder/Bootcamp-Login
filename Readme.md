@@ -24,16 +24,16 @@
 
 /Proyecto/
 │
-├── index.html # Página principal o dashboard
-├── login.html # Formulario de inicio de sesión
-├── register.html # Formulario de registro
-├── recuperar.html # Recuperar contraseña
+├── index.html         # Página principal o dashboard
+├── login.html         # Formulario de inicio de sesión
+├── register.html      # Formulario de registro
+├── recuperar.html     # Recuperar contraseña
 ├── assets/
 │ ├── css/
-│ │ └── estilos.css # Estilos personalizados
+│ │ └── estilos.css    # Estilos personalizados
 │ └── js/
-│ └── login.js # Validaciones y lógica de formularios
-└── README.md # Este archivo
+│ └── login.js         # Validaciones y lógica de formularios
+└── README.md          # Este archivo
 
 
 ---
